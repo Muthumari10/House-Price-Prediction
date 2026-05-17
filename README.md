@@ -64,15 +64,18 @@ This improves prediction quality by consolidating bathroom-related attributes in
 ---
 
 ## 📁 Project Structure
+
+```
 House-Price-Prediction/
 │
-├── app.py                        # Streamlit web application
-├── House_Price_Prediction.ipynb  # ML model training notebook
-├── house_model.pkl               # Trained and serialized model
-├── train.csv                     # Housing dataset (1460 rows)
-├── requirements.txt              # Python dependencies
-├── screenshot.png                # App preview
-└── README.md                     # Project documentation
+├── app.py
+├── House_Price_Prediction.ipynb
+├── house_model.pkl
+├── train.csv
+├── requirements.txt
+├── screenshot.png
+└── README.md
+```
 
 ---
 
