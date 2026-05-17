@@ -8,7 +8,7 @@ A machine learning-powered web application that predicts house prices in real-ti
 
 ## 🚀 Live Demo
 
-> Run locally using the steps below
+👉 **[Click here to try the app!](https://property-cost-estimator.streamlit.app/)**
 
 ---
 
